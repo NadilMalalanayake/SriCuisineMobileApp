@@ -1,0 +1,7 @@
+[2024-04-07T16:53:18.129] [TRACE] default - [authController] :: requestPasswordReset() : Start
+[2024-04-07T16:53:18.359] [TRACE] default - [mailUtil] :: sendMail(): Start
+[2024-04-07T16:53:23.185] [TRACE] default - [mailUtil] :: sendMail(): End
+[2024-04-07T16:53:23.186] [DEBUG] default - [authController] :: requestPasswordReset() : mailSent : {true }
+[2024-04-07T16:53:23.194] [TRACE] default - [authController] :: requestPasswordReset() : End
+[2024-04-07T17:25:45.910] [TRACE] default - [authController] :: authenticate() : Start
+[2024-04-07T17:25:46.240] [TRACE] default - [authController] :: authenticate() : End
